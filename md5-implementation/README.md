@@ -27,5 +27,5 @@ This project is a manual implementation of the MD5 hashing algorithm written in 
 
 ## Example
 
-Input: Hello
-Output: 8b1a9953c4611296a827abf8c47804d7
+- Input: Hello
+- Output: 8b1a9953c4611296a827abf8c47804d7
