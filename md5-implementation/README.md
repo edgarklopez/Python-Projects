@@ -30,4 +30,6 @@ This project is a manual implementation of the MD5 hashing algorithm written in 
 - Input: Hello
 - Output: 8b1a9953c4611296a827abf8c47804d7
 
-## Note MD5 is NOT Secure
+## Security Note
+
+MD5 is no longer considered secure for modern cryptographic use because practical collision attacks exist. This implementation was created for educational purposes to understand how a cryptographic hash function processes data internally.
